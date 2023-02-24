@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class EcommerceAcademyApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(EcommerceAcademyApplication.class, args);
 	}
-
 }
