@@ -3,15 +3,14 @@ package com.academy.ecommerce.model;
 import jakarta.persistence.*;
 import lombok.*;
 
-@Entity
-@Table(name = "product")
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
+@Entity
+@Table(name = "products")
 public class Product {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-
     private Long id;
     private String codice;
     private String nome;
