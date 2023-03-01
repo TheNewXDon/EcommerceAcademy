@@ -34,3 +34,4 @@ build/
 
 ### Project Java ###
 src/main/resources/application.properties
+*.properties
