@@ -21,5 +21,8 @@ public class Address {
     private String via;
     private int nCiv;
     private int cap;
+    @ManyToOne
+    @JoinColumn(name = "id_customer")
+    private Customer customer;
 
 }
