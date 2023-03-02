@@ -6,6 +6,8 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.ToString;
 
+import java.util.List;
+
 @AllArgsConstructor
 @NoArgsConstructor
 @Data
@@ -25,8 +27,7 @@ public class Customer {
     private String email;
     private String phone;
 
-    /*@OneToMany(mappedBy="customer")
+    @OneToMany(mappedBy="customer")
     private List<Address> addresses;
-     */
 
 }

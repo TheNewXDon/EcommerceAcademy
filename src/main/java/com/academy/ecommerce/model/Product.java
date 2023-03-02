@@ -15,6 +15,8 @@ public class Product {
     private String codice;
     private String nome;
     private String marca;
+    private String categoria;
     private String descrizione;
     private Float costo;
+    private String immagine;
 }
