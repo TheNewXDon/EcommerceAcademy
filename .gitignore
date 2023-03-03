@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Project Java ###
+src/main/resources/application.properties
+*.properties

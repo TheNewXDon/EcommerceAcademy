@@ -88,6 +88,7 @@ INSERT INTO `products` (`id`, `codice`, `costo`, `descrizione`, `marca`, `nome`,
 	(24, 'Z', 23, 'Miracase 2023-2a Generazione Porta Cellulare Auto e Supporto Telefono Flessibile per la Ventilazione Auto Porta Smartphone Universale Compatibile con iPhone Serie 13/14 e Samsung', 'Miracase', 'Appoggio Auto', 'Mobiles', 'https://m.media-amazon.com/images/I/61J+JbM38KL._AC_SL1186_.jpg'),
 	(25, 'AA', 6, 'NEW C 3 Pezzi, Vetro Temperato per Samsung Galaxy A53 5G, Pellicola Prottetiva Anti Graffio, Anti-Impronte, Senza Bolle, Durezza 9H, 0,26mm Ultra Trasparente, Ultra Resistente', 'NEW C', 'Pellicola', 'Mobiles', 'https://m.media-amazon.com/images/I/610RrWzMerL._AC_SL1500_.jpg'),
 	(26, 'AB', 5, 'NEW C Cover per iPhone 12/12 Pro (6,1 pollici), Custodia Gel Trasparente Morbida Silicone Sottile TPU [Ultra Leggera e Chiaro]', 'NEW C', 'Cover', 'Mobiles', 'https://m.media-amazon.com/images/I/71LPvn-YGeL._AC_SL1500_.jpg');
+
 /*!40000 ALTER TABLE `products` ENABLE KEYS */;
 
 /*!40103 SET TIME_ZONE=IFNULL(@OLD_TIME_ZONE, 'system') */;
