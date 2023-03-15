@@ -1,7 +1,6 @@
-package com.academy.ecommerce.repo;
+package com.academy.ecommerce.repository;
 
 import com.academy.ecommerce.model.CartProduct;
-import com.academy.ecommerce.model.Product;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

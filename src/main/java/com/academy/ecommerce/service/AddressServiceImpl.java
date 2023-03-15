@@ -1,7 +1,7 @@
 package com.academy.ecommerce.service;
 
 import com.academy.ecommerce.model.Address;
-import com.academy.ecommerce.repo.AddressRepository;
+import com.academy.ecommerce.repository.AddressRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

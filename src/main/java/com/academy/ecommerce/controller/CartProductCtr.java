@@ -1,9 +1,7 @@
-package com.academy.ecommerce.ctr;
+package com.academy.ecommerce.controller;
 
 import com.academy.ecommerce.model.CartProduct;
-import com.academy.ecommerce.model.Product;
 import com.academy.ecommerce.service.CartProductService;
-import com.academy.ecommerce.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

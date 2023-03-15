@@ -1,14 +1,10 @@
-package com.academy.ecommerce.ctr;
+package com.academy.ecommerce.controller;
 
 import com.academy.ecommerce.model.Address;
-import com.academy.ecommerce.repo.AddressRepository;
 import com.academy.ecommerce.service.AddressService;
-import com.academy.ecommerce.service.AddressServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-import org.springframework.stereotype.Controller;
-import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

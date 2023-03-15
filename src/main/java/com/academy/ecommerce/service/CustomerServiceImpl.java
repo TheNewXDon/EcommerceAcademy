@@ -1,7 +1,7 @@
 package com.academy.ecommerce.service;
 
 import com.academy.ecommerce.model.Customer;
-import com.academy.ecommerce.repo.CustomerRepo;
+import com.academy.ecommerce.repository.CustomerRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

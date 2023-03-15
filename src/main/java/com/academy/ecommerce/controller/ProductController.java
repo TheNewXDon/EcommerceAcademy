@@ -1,4 +1,4 @@
-package com.academy.ecommerce.ctr;
+package com.academy.ecommerce.controller;
 
 import com.academy.ecommerce.model.Product;
 import com.academy.ecommerce.service.ProductService;
