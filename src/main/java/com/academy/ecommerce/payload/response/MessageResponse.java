@@ -1,4 +1,4 @@
-package com.healthcare.crm.payload.response;
+package com.academy.ecommerce.payload.response;
 
 public class MessageResponse {
   private String message;

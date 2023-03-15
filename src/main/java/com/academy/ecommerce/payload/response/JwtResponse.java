@@ -1,4 +1,4 @@
-package com.healthcare.crm.payload.response;
+package com.academy.ecommerce.payload.response;
 
 import java.util.List;
 
